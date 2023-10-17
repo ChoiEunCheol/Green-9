@@ -9,4 +9,5 @@ function arrayzz(x,y){
 }
 
 console.log(array1[1]);
-arrayzz(1,1);
+
+arrayzz(1,1); 
